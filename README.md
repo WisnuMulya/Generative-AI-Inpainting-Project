@@ -7,3 +7,5 @@ At the end of the notebook, a [Gradio](https://www.gradio.app/) app will pop up 
 ![Generated jeep inpainting](./img/jeep-inpainting.png)
 ![Generated dragon inpainting](./img/dragon-inpainting.png)
 ![Generated Monalisa inpainting](./img/monalisa-inpainting.png)
+
+© 2024 Wisnu Mulya
